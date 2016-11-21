@@ -13,7 +13,7 @@ Also, we include material-ui as dependency for the UI, but this is completely op
 Server
 1. cd server
 2. bundle install
-3. rails db:create db:migrate
+3. rails db:setup
 4. rails s
 
 Client
@@ -21,6 +21,8 @@ Client
 2. npm install
 3. npm start
 ```
+
+Yay! You got the application working on http://localhost:4000 (the API works on port 3000)
 
 For development for the client application you can open a new terminal and run:
 
