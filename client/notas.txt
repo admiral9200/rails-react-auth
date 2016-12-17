@@ -1,2 +1,0 @@
-https://github.com/danlevan/google-material-color (palette.css)
-https://www.npmjs.com/package/react-shortcuts
